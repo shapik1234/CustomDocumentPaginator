@@ -1,0 +1,12 @@
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\bin\Debug\CustomDocumentPaginator.exe
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\bin\Debug\CustomDocumentPaginator.pdb
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\CustomDocumentPaginator.csprojResolveAssemblyReference.cache
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\MainWindow.baml
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\MainWindow.g.cs
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\App.g.cs
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\CustomDocumentPaginator_MarkupCompile.cache
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\CustomDocumentPaginator.g.resources
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\CustomDocumentPaginator.Properties.Resources.resources
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\CustomDocumentPaginator.csproj.GenerateResource.Cache
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\CustomDocumentPaginator.exe
+C:\DSO\EligibilityReport\Controls\CustomDocumentPaginator\CustomDocumentPaginator\obj\x86\Debug\CustomDocumentPaginator.pdb
